@@ -36,5 +36,3 @@ Hi, my name is CK98. I am a student interested in code.
 <a href="https://github.com/CHOK9938/FixTime">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CHOK9938&repo=FixTime" />
 </a>
-
------
