@@ -17,13 +17,11 @@ Hi, my name is CK98. I am a student interested in code.
 
 **Talking about Education/Skills:**
 
-- 🎓 Graduating in 2021 from Gudlavalleru Enginering College
 - Python
 -  Html, CSS, Java Script, BootStrap, PHP
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: thanaphum.mas@damrong.co.th
-- 
 &nbsp;
 
 
@@ -40,5 +38,3 @@ Hi, my name is CK98. I am a student interested in code.
 </a>
 
 -----
-
-Last Edited on: 30/08/2020
