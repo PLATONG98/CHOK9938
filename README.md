@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hey 👋, I'm [CK98!](https://github.com/CHOK9938)
 
-<!--
-**CHOK9938/CHOK9938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+
+Hi, my name is CK98. I am a student interested in code.
+
+
+"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
+
+
+
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
+**Talking about Education/Skills:**
+
+- 🎓 Graduating in 2021 from Gudlavalleru Enginering College
+- Python
+-  Html, CSS, Java Script, BootStrap, PHP
+
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: thanaphum.mas@damrong.co.th
+- 
+&nbsp;
+
+
+![CK98's github stats](https://github-readme-stats.vercel.app/api?username=CHOK9938&show_icons=true&hide_border=true)
+
+💻 Projects in which I have contributed in my [github](https://github.com/CHOK9938/)
+
+<a href="https://github.com/CHOK9938/Minecraft_Bedrock-The-Hive-Scoreboard">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CHOK9938&repo=Minecraft_Bedrock-The-Hive-Scoreboard" />
+</a>
+
+<a href="https://github.com/CHOK9938/FixTime">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CHOK9938&repo=FixTime" />
+</a>
+
+-----
+
+Last Edited on: 30/08/2020
