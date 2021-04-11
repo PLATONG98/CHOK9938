@@ -13,7 +13,6 @@ Hi, my name is CK98. I am a student interested in code.
 
 
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 **Talking about Education/Skills:**
 
