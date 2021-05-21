@@ -4,10 +4,10 @@
 
 💻 Latest things i did on [github](https://github.com/CHOK9938/)
 
-<a href="https://github.com/CHOK9938/Minecraft_Bedrock-The-Hive-Scoreboard">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CHOK9938&repo=Minecraft_Bedrock-The-Hive-Scoreboard" />
+<a href="https://github.com/CHOK9938/FixTime">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CHOK9938&repo=CubeCraft-Scoreboard" />
 </a>
 
-<a href="https://github.com/CHOK9938/FixTime">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CHOK9938&repo=FixTime" />
+<a href="https://github.com/CHOK9938/Minecraft_Bedrock-The-Hive-Scoreboard">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CHOK9938&repo=The-Hive-Scoreboard" />
 </a>
