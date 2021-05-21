@@ -1,6 +1,6 @@
 💻 My Stats
 <br><br>
-![CK98's github stats](https://github-readme-stats.vercel.app/api?username=CHOK9938&show_icons=true&hide_border=truetheme=dark)
+![CK98's github stats](https://github-readme-stats.vercel.app/api?username=CHOK9938&show_icons=true&hide_border=true&theme=dark)
 
 💻 Latest things i did on [github](https://github.com/CHOK9938/)
 
